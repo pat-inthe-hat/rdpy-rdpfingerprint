@@ -89,6 +89,9 @@ hashes = {
     "384:UEoYb6LNdmS7Jhhmp7IWOYg0DwSSZKa7kzfpVDaY9jHvJc66c:UEoYb6hd5j8ZFZZeIdF9jJc66c" : "Windows Server 2003 Standard Edition",
     "384:UEoYb6LNdmS7Jhhmp7IWOYg0DwSSZKafjCp/q9s8w7JXq+:UEoYb6hd5j8ZFZZe7aq9s/7JXq+" : "Windows Server 2003 Standard Edition",
 
+    # Windows Server 2003 Enterprise Edition
+    "768:UN8a8a8llb3ERjMeZDU+aaaaamVVVVVVNWUb:UN8a8a8H3E9ZgEVVVVVVsUb" : "Windows Server 2003 Enterprise Edition",
+    
     # Windows Server 2003 R2 Standard
     "384:UbXEwMsQ1HocX6g+0B+DtvPPf000mSjGeTqgFa:UbXI71rItxmG4qka" : "Windows Server 2003 R2 Standard Edition",
     "384:UbXEwMsQ1HocX6g+0B+Dtvx000mSjGeTqgFa:UbXI71rIhmG4qka" : "Windows Server 2003 R2 Standard Edition",
