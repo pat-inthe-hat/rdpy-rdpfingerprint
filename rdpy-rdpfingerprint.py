@@ -81,8 +81,8 @@ hashes = {
     "384:UBcRt9SuXJPralJ5a/2gzjOmpvN6O3lZWcea6:UkKEzjfpvNfZWZa6" : "Windows 7 Embedded Standard",
     "192:W/TkUOc41dzikFw/K9QqZAsZn1ZQA8C8/vceqa7ezBjJA:UBOc4mV/K9nZAU1ZWcea6" : "Windows 7 Enbedded Standard",
     
-    # Windows Embedded
-    "24:49YMW10o0XxDuLHeOWXG4OZ7DAJuLHenX3+:49YMAFuERA4" : "Windows Embedded Standard",
+    # Windows Server 2003 Standard - multiple versions version
+    "24:49YMW10o0XxDuLHeOWXG4OZ7DAJuLHenX3+:49YMAFuERA4" : "Windows Server 2003 Standard - Unknown Edition",
 
     # Windows Server 2003 Standard
     "384:UEoYb6LNdmS7Jhhmp7IWOYg0DwSSZKaxjyESbaVhnE/gMJGZ:UEoYb6hd5j8ZFZZexWEhnE/gMJGZ" : "Windows Server 2003 Standard Edition",
@@ -151,7 +151,8 @@ hashes = {
     "768:U8nIBz6wCtfdrhEme4VP8555fnXXX9HjXk4QKbhKbP9EZQXNA6r6wZ:U8nOmwYfdL3I55djXhKLPeY" : "Windows XP Professional",
     "768:U5EwmiPf7V1ofYekd/XUPDTr4+ovTZAo7XHxwY:U5pmmfXo5uPeDTE+tGh" : "Windows XP Professional",
     "384:UVb1UDUwpBwCH27VisjftCMYezp4ReKHCP3eeeeev:U5EwmiPf7V9y" : "Windows XP Professional",
-    "768:UZJ1etXyVmmxvdrRRilB4vTVVVVVVVVVVVVVG/RNtCd:UZJktizxFE35NtCd " : "Windows XP Professional",
+    "768:UZJ1etXyVmmxvdrRRilB4vTVVVVVVVVVVVVVG/RNtCd:UZJktizxFE35NtCd" : "Windows XP Professional",
+    "768:UZ9b/YVvVPKaokkkkkkkkkkkk+qstyV4RGHRd:UZ9kVdPbqVP" : "Windows XP Professional",
 }
 
 def check_ssdeep_hash(path):
