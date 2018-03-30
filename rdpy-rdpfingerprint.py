@@ -81,8 +81,8 @@ hashes = {
     "384:UBcRt9SuXJPralJ5a/2gzjOmpvN6O3lZWcea6:UkKEzjfpvNfZWZa6" : "Windows 7 Embedded Standard",
     "192:W/TkUOc41dzikFw/K9QqZAsZn1ZQA8C8/vceqa7ezBjJA:UBOc4mV/K9nZAU1ZWcea6" : "Windows 7 Enbedded Standard",
     
-    # Windows Server 2003 Standard - multiple versions version
-    "24:49YMW10o0XxDuLHeOWXG4OZ7DAJuLHenX3+:49YMAFuERA4" : "Windows Server 2003 Standard - Unknown Edition",
+    # Black Screen - Failed 
+    "24:49YMW10o0XxDuLHeOWXG4OZ7DAJuLHenX3+:49YMAFuERA4" : "Black Screen - Failed",
 
     # Windows Server 2003 Standard
     "384:UEoYb6LNdmS7Jhhmp7IWOYg0DwSSZKaxjyESbaVhnE/gMJGZ:UEoYb6hd5j8ZFZZexWEhnE/gMJGZ" : "Windows Server 2003 Standard Edition",
@@ -107,6 +107,7 @@ hashes = {
     "192:W/poIGaioxzLUwg5m9gD7dORyMWo8aXMXYIbDWH0MvIn7:Upo+x/UB5mK7dO7DXMIoSH0MvI7" : "Windows Server 2008 Standard",
     "384:UnoeKmMRNOAdrVtRfxIGmHQ+9y37GUmnkl5dyg:UjKVRNDXxVmwZLGXne5dyg" : "Windows Server 2008 Standard",
     "384:UnoeKmMRNOA90+KdsfgFFcNxH7asEex0FistO:UjKVRND9wL62HFXO" : "Windows Server 2008 Standard",
+    "192:W/K1Ba1eaOd0Tt0wSpZFSlvgIxA9Wkef7WCn8zvS1imGz9IB8:UK1IM2ttBgIxJnzd8DgW9Ia" : "Windows Server 2008 Standard",
     "192:W/nKneKmMrhDyaODEfKnJrPy4hpDYoM+vJz5X0xRywq8zi/94407byF3:UnoeKmMRNOASnJnTDYovJYQwq8zKomp" : "Windows Server 2008 Standard",
 
     # Windows Server 2008 Enterprise
