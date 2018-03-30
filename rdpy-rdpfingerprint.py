@@ -70,6 +70,8 @@ hashes = {
     "384:UM+mdpdsAW5DdLgmbQ914hrieIXOryNwDSfHnkqu7aS1:UMnHdWpdRWuheeqOrnSfnfuv" : "Windows 7 Professional",
     "1536:UZtK+VC7tadpBwsmyCFZTe2y9wbkXB4O+hYA6g:57t+BKBRb57T" : "Windows 7 Professional",
     "384:UKV7CIpJPvvVKP5MQZytZRCJpHG/4ebdZaxtlq:UTI3vvVKP5MeSLCJpH24udkHg" : "Windows 7 Professional",
+    "384:UTRcxU6AywBuoihURjLO+ofcbF7qfOsKCUOCaYUanmLYgM8:UTRddBdWKjLAfCefOVVZUpYy" : "Windows 7 Professional",
+    "192:W/TkUOXz+mqx1yiX0Wf47NqSg1jlEMPw5N2q3f4gEtUZkY:UBO6mqHb0Wg7NqSg7/q3Qd+aY" : "Windows 7 Professional",
 
     # Windows 7 Ultimate
     "384:UbPoedvlaD/0xgaVh7XGDtR5RGAJGlaho:UZUACaVhTEhR5Jpo" : "Windows 7 Ultimate",
@@ -78,7 +80,7 @@ hashes = {
     # Windows 7 Embedded Standard
     "384:UBcRt9SuXJPralJ5a/2gzjOmpvN6O3lZWcea6:UkKEzjfpvNfZWZa6" : "Windows 7 Embedded Standard",
     "192:W/TkUOc41dzikFw/K9QqZAsZn1ZQA8C8/vceqa7ezBjJA:UBOc4mV/K9nZAU1ZWcea6" : "Windows 7 Enbedded Standard",
-
+    
     # Windows Embedded
     "24:49YMW10o0XxDuLHeOWXG4OZ7DAJuLHenX3+:49YMAFuERA4" : "Windows Embedded Standard",
 
@@ -106,6 +108,7 @@ hashes = {
 
     # Windows Server 2008 Enterprise
     "384:UnoeKmMRNOASw/QVsjnKYL+qqOiV9UeLYcAfmrG7:UjKVRNDSwksjKYLvveLYzb7" : "Windows Server 2008 Enterprise",
+    "384:UKs9DvT2Z//YGtG51tpqtCFexhW7xLsPfYZZ0EKXXbh6:UF10/wuG515FexhW9sPAcjc" : "Windows Server 2008 Enterprise",
 
     # Windows Server 2008 R2 Standard
     "192:W/QYC/XxamdUSF5MHqxifn2SyEEchNN27xFrKpkxALbxzottCxQi2Ls086573:UBKamrFyHqxWEchW7xFrKpDLFpxgBd" : "Windows Server 2008 R2 Standard",
@@ -117,7 +120,11 @@ hashes = {
     "384:UBT/uKnbP22RoDqRAkglypubypXXfW7HvSHmI:UV/uwS24qRAkTxKqD" : "Windows Server 2008 R2 Standard",
     "192:W/B9RDbu88Kn8dPTZNo93M2dqvSIxW9WyTA2iMoMkPrUAkh4d0W23GX5QEmoHhkM:UBT/uKnQo1YSIxzyTARMsPIksMK0HhkM" : "Windows Server 2008 R2 Standard",
     "192:W/QYC/XxamdUSF5MHqxifRpXSL5w1Fef7WCn8zvS1imGz9IB8:UBKamrFyHqxuULFzd8DgW9Ia" : "Windows Server 2008 R2 Standard",
+    "384:USUDvo6UAc23zS8UMS8nCU0gXwCYPNLYelqZvXGq7I:USETBzDJVzXsPNGZvXGq7I" : "Windows Server 2008 R2 Standard",
 
+    # Windows Server 2008 R2 Foundation
+    "384:UM+mdpdsAW5DdFYkkkkakywWngpppWCL9ffeZGsBfjG:UMnHdWpdFx7wWngpppWCBmgspjG" : "Windows Server 2008 R2 Foundation",
+    
     # Windows Server 2008 R2 Enterprise
     "384:UBT/uKnWP5FX2RJ+4AVFO6Cpe0fgirbDqTb:UV/uwWPmf+4ArO6CPgi2/" : "Windows Server 2008 R2 Enterprise",
     "384:UBT/uKn/6SXHsnafRJ+4AVFO6Cpe0fgirbDqTb:UV/uwiUHqUf+4ArO6CPgi2/" : "Windows Server 2008 R2 Enterprise",
@@ -125,7 +132,16 @@ hashes = {
     "384:UM+mdpdsAW5DdFYkkkkakywWngpppQsdeG0WM6SFwTS5ApUk87Xc:UMnHdWpdFx7wWngpppnsNWM6IwTnpIjc" : "Windows Server 2008 R2 Enterprise",
     "192:W/B9RDbu88Kn8dthCIp210+3vwUxnungLCMHgdRTWLTV5FSrvXxYeokzbxm710yc:UBT/uKnUhCYqFYTS5ApUk87Xc" : "Windows Server 2008 R2 Enterprise",
     "192:W/N2B1P0j6wO0n8E/FuJGtwl09CWJ2F+X3ZGTyoORwzXPU0UCVt3UNrEg2:UQBtwO0n8E/WQ7JYiiyoOuc0UCVGBx2" : "Windows Server 2008 R2 Enterprise",
+    "384:UKs9DvT2Z//YGtG51tpqtCFexhW7xLsPfYZZ0EKXXbh6:UF10/wuG515FexhW9sPAcjc" : "Windows Server 2008 R2 Enterprise",
 
+    # Windows Small Business Server 2011
+    "384:UBT/uKn+W7s6+nRJ+BsPVySbzn5kfoM7dmBPAw:UV/uw+Jfnf+BsPVySnn5MTGV" : "Windows Small Businesss Server 2011",
+    
+    # Windows Server 2012 R2
+    "384:U3VdaTO9bBvBk/sB444FcVc9Cda7IMb0GJc:U3VdaqbBJUU444qVCCdam" : "Windows Server 2012 R2",
+    "768:UWbbcGaXyb5avVGRuSxAnBwFkv4wovyB99+dwzzqdOmG:UPGRuSxABRv4wEyB7+dwqG" : "Windows Server 2012 R2",
+    "384:U3VdaHd+M61sBClCOOEYxa0000000UYxLjuv94GWx:U3VdaHH61skYxa0000000UMnu6Gs" : "Windows Server 2012 R2",
+    
     # XP Professional
     "384:UVolJ09AQ9EST4t1rImMbyo8uY77EV1JE7IpOb2GfRLdirwaStzS7OON:UOJTQ9EGSp4bymV47Ipo2GJRirwaSt+L" : "Windows XP Professional",
     "768:UOJTQ9E9WQWDCZJ8Nu7WF4V49Z55vsVgVfVfVfDJu:UOFtWNDCPJ655vsVUu" : "Windows XP Professional",
