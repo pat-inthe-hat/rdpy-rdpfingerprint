@@ -55,7 +55,7 @@ hashes = {
     "192:W/Tk6ORryY0kMjU0D/G49T8UWUNXrl84LDRARGYT7bcUyMyLOZz:UY6ORryYvKHD+o8A2wADTfcUyM6Ot" : "Windows 7 Enterprise",
     "384:UTR+U6c/5CJcL9shJsR1Tgr9sARpRnlAILOiHGK8U:UTRD/2Lr9lt7mK8U" : "Windows 7 Enterprise",
     "384:UM+mdpdsAWPwAbmBPZLlcDBY+HOcLNQuxbOif0z:UMnHdWPwAbWPoD9RmwOifW" : "Windows 7 Enterprise",
-    "192:W/LTKfZMryUPTnFp15Sdj32fYVTgzzb1A:UwMxXSdj32ITgzPi -- See s-172.16.17.60.jpg" : "Windows 7 Enterprise",
+    "192:W/LTKfZMryUPTnFp15Sdj32fYVTgzzb1A:UwMxXSdj32ITgzPi" : "Windows 7 Enterprise",
     "192:W/TkUOZIxniicLLKadDE9T7mG0yEYsoFp15SdhqyfrMOk0bM:UBOZmiiQWJ9eG0y8gXSdhHfrMOkD" : "Windows 7 Enterprise",
     "384:U2KgnTGn+Rivf85jncrTIZnNVWAY9MRUn+Qq:U2RnG2crTIvV5vT" : "Windows 7 Enterprise",
     "768:Ulq3cKSKoCxPkmCOKfcelvDpEEyUgK8K8K8AwOu:UlIcGoXm7ecAgK8K8K8n" : "Windows 7 Enterprise",
